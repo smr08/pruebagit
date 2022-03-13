@@ -1,0 +1,29 @@
+/* selector universal */
+*{
+    background: aquamarine;
+}
+
+/* selector por etiqueta */
+h1{
+    background: beige;
+}
+p{
+    background: cadetblue;
+}
+
+/* selector descendente */
+div p{
+    background: rgb(43, 205, 226);
+}
+
+/* selector por clases */
+.titulo-uno
+{
+    background: rgb(255, 102, 0);
+}
+
+/* selector id */
+#titulo-dos
+{
+    background: gainsboro;
+}

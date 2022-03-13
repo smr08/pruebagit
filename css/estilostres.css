@@ -1,0 +1,19 @@
+/* selector universal */
+*{
+    background: aquamarine;
+}
+
+h1 {
+    font-family: monospace;
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 25px;
+    color: darkgoldenrod;
+}
+p {
+    background: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}

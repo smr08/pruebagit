@@ -1,0 +1,48 @@
+*{
+    background: bisque;
+}
+/* selectores ID clases */
+#subtitulo 
+{
+    text-align: center;
+    background: coral;
+    color: black;
+}
+
+#parrafo-dos 
+{
+    font-size: 22px;
+    background: darksalmon;
+    color: dimgrey;
+}
+
+.subtitulo-uno {
+    background: blue;
+    text-align: center;
+    color: beige;
+}
+
+.parrafo-uno {
+    font-size: 23px;
+    background: deeppink;
+
+}
+
+.subtitulo {
+    background: blue;
+    text-align: center;
+    color: beige;
+}
+
+.parrafo {
+    font-size: 23px;
+    background: deeppink;
+
+}
+
+.titulo {
+    text-align: center;
+    color: white;
+    background: darkorchid;
+    font-size: 32px;
+}
